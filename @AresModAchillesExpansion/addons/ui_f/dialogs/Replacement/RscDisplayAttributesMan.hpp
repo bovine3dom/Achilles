@@ -1,6 +1,3 @@
-
-#define 
-
 class RscDisplayAttributesMan: RscDisplayAttributes 
 {
 	scriptName = "RscDisplayAttributesMan";

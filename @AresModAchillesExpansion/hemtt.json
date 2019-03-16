@@ -1,0 +1,16 @@
+{
+  "name": "Achilles",
+  "prefix": "achilles",
+  "author": "",
+  "files": [
+    "mod.cpp"
+  ],
+  "include": [],
+  "exclude": [],
+  "optionals": [],
+  "skip": [],
+  "headerexts": [],
+  "modname": "",
+  "keyname": "",
+  "signame": ""
+}
